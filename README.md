@@ -2,7 +2,7 @@
 
 ## Description
 <p> Explored data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. 
-import the data and crafted code by using the concepts of computing descriptive statistics. 
+imported the data and crafted code by using the concepts of computing descriptive statistics. 
 Also crafted script that takes in raw input to create an interactive experience in the terminal to present these statistics.</p>
 
 ## Tools Used
